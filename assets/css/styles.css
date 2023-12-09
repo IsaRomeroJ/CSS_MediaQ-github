@@ -97,7 +97,7 @@
     overflow: scroll;
 }
 
-.Card {
+.Cars {
     border: solid 1px black;
     display: grid;
     grid-template-columns: 1fr;
